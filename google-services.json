@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010727108870",
+    "firebase_url": "https://hamigo-db3d8-default-rtdb.firebaseio.com",
+    "project_id": "hamigo-db3d8",
+    "storage_bucket": "hamigo-db3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010727108870:android:bed40c50b4791a81879e87",
+        "android_client_info": {
+          "package_name": "com.example.hamigo_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010727108870-s8vg4labl5hk8dt0o9ip9ea9ccg2h68l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hamigo_12",
+            "certificate_hash": "e229a06ee8928d39034ed19692738823b1ed578d"
+          }
+        },
+        {
+          "client_id": "1010727108870-msdfqe0eac5k6bhn61jv2blvpm51svlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5-uBDgG_kKzvhDwmRH5HK2NoRW0Gr78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010727108870-msdfqe0eac5k6bhn61jv2blvpm51svlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
